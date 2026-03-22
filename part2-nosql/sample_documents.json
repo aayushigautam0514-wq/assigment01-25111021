@@ -1,0 +1,35 @@
+[
+  {
+    "product_id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "specifications": {
+      "brand": "Dell",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 1200,
+    "sizes": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "brand": "H&M"
+  },
+  {
+    "product_id": 3,
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 60,
+    "expiry_date": "2024-12-01",
+    "nutrition": {
+      "calories": 42,
+      "protein": "3.4g",
+      "fat": "1g"
+    }
+  }
+]
